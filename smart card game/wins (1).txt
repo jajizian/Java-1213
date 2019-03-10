@@ -1,0 +1,16 @@
+New Game Session:
+Number of Dealer wins: 0
+Number of Player wins: 1
+
+New Game Session:
+Number of Dealer wins: 3
+Number of Player wins: 6
+
+New Game Session:
+Number of Dealer wins: 6
+Number of Player wins: 3
+
+New Game Session:
+Number of Dealer wins: 5
+Number of Player wins: 2
+
