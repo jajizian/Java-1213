@@ -1,0 +1,6 @@
+hey,there,im,jack
+this,is,my,text,file
+gonna,read,from,it
+and,count,the,tokens
+on,each,line
+not,counting,the,comma,delimiter
